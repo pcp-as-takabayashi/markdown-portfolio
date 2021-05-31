@@ -1,1 +1,1 @@
-[image](takabayashi.jpg)
+[image](/Users/as_takabayashi/Documents/takabayashi.jpg)
